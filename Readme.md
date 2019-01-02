@@ -1,7 +1,7 @@
-![](https://ral.ucar.edu/sites/default/files/public/wrf_hydro_symbol_logo_2017_09_150pxby63px.png) WRF-HYDRO
+![](https://ral.ucar.edu/sites/default/files/public/wrf_hydro_symbol_logo_2017_09_150pxby63px.png) WRF-HYDRO®
 
 ## Overview
-This repository contains lessons in understanding the basic functionality of WRF-Hydro.
+This repository contains lessons in understanding the basic functionality of WRF-Hydro®.
 
 ### Requirements
 The easiest and recommended way to run these lessons is via the [wrfhydro/training](https://hub.docker.com/r/wrfhydro/training/) Docker container, which has all software dependencies and data pre-installed.
