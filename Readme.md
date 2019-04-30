@@ -6,7 +6,7 @@ This repository contains lessons in understanding the basic functionality of WRF
 ### Requirements
 The easiest and recommended way to run these lessons is via the [wrfhydro/training](https://hub.docker.com/r/wrfhydro/training/) Docker container, which has all software dependencies and data pre-installed.
 
-* Docker >= v.17.12
+* Docker >= v.18.09.2
 * Web browser (Google Chrome recommended)
 
 ### Where to get help and/or post issues
